@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 2824718 */
-  src: url('//at.alicdn.com/t/font_2824718_3ef131y84h8.woff2?t=1632127039093') format('woff2'),
-       url('//at.alicdn.com/t/font_2824718_3ef131y84h8.woff?t=1632127039093') format('woff'),
-       url('//at.alicdn.com/t/font_2824718_3ef131y84h8.ttf?t=1632127039093') format('truetype');
+  src: url('//at.alicdn.com/t/font_2824718_jmqoz8rsa39.woff2?t=1632274711526') format('woff2'),
+       url('//at.alicdn.com/t/font_2824718_jmqoz8rsa39.woff?t=1632274711526') format('woff'),
+       url('//at.alicdn.com/t/font_2824718_jmqoz8rsa39.ttf?t=1632274711526') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shudan:before {
+  content: "\e62c";
 }
 
 .icon-github:before {
